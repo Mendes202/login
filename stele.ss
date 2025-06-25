@@ -2,11 +2,13 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: linear- gradient(45deg,cyan,yellow);
 }
-background-color:rgb(red, green, blue);
-position: absolute
-top: 50%
-left: 50%
+div{
+background-color:rgb(0,0,139);
+position: absolute;
+top: 50%;
+left: 50%;
 trasform: traslate(-50%, -50%);
 pad: 80x;
 border-radius: 15px;
 color; white;
+}
