@@ -7,8 +7,8 @@ background-color:rgb(0,0,139);
 position: absolute;
 top: 50%;
 left: 50%;
-trasform: traslate(-50%, -50%);
-pad: 80x;
+trasform:traslate(-50%, -50%);
+padding: 80px;
 border-radius: 15px;
 color; white;
 }
